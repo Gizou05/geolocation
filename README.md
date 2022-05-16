@@ -1,2 +1,2 @@
-# geolocation
-this project is for developer in java for made first part of the geolocation
+# patients_geolocation
+Project to locate patients in order to facilitate their home appointments by medical specialists
